@@ -1,0 +1,13 @@
+.blue {
+    background-color: blue;
+}
+
+button{
+    width: 10%;
+    min-width: 100px;
+    margin: 20px;
+}
+
+html, body {
+    height: 100%;
+}
