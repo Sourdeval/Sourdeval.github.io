@@ -8,6 +8,16 @@
     background-color: #0066ff;
 }
 
+.courses {
+    background-color: red;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.courses:hover{
+    background-color: #FF4444;
+}
+
 button{
     width: 10%;
     min-width: 100px;
