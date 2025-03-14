@@ -28,6 +28,16 @@
     background-color: #ffe100;
 }
 
+.premier-mai {
+    background-color: #000000;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.premier-mai:hover{
+    background-color: #2e2e2e;
+}
+
 button{
     width: 10%;
     min-width: 100px;
